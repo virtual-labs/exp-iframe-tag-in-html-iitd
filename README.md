@@ -8,7 +8,7 @@
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+The aim of this experiment is to understand the concept of iframe tag and its use in HTML code.
 
 <b>Name of Developer | <b> Prof. Ranjan Bose 
 :--|:--|
