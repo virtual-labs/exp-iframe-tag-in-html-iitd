@@ -89,7 +89,7 @@
     },
 
     {
-      question: ""src" attribute is used to specify the URL of the document that occupies the iframe.",
+      question: "src attribute is used to specify the URL of the document that occupies the iframe.",
       answers: {
         a: "True",
         b: "False"
@@ -98,7 +98,7 @@
     },
 
     {
-      question: "How we can set width and height in �iframe� tag.",
+      question: "How we can set width and height in iframe tag.",
       answers: {
         a: "width=value & height=value",
         b: "width:value & height:value",
@@ -109,7 +109,7 @@
     },
 	
 	{
-      question: "�iframe� is an empty tag. State True Or False.",
+      question: "iframe is an empty tag. State True Or False.",
       answers: {
         a: "True",
         b: "False"
@@ -118,7 +118,7 @@
     },
 	
 	{
-      question: "How we can add scrolling in �iframe� tag.",
+      question: "How we can add scrolling in iframe tag.",
       answers: {
         a: "scroll=yes",
         b: "scrolling=yes",
