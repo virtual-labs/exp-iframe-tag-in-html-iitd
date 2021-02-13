@@ -98,7 +98,7 @@
     },
 
     {
-      question: "Select the correct attribute of �iframe� tag for border to inline frame.",
+      question: "Select the correct attribute of iframe tag for border to inline frame.",
       answers: {
         a: "border",
         b: "frameborder",
@@ -109,7 +109,7 @@
     },
 	
 	{
-      question: "Select the correct attribute for specifying the address of the document to embed in the �iframe�.",
+      question: "Select the correct attribute for specifying the address of the document to embed in the iframe.",
       answers: {
         a: "address",
         b: "url",
@@ -120,7 +120,7 @@
     },
 	
 	{
-      question: "How we can add srcdoc in �iframe� tag.",
+      question: "How we can add srcdoc in iframe tag.",
       answers: {
         a: "srcdoc=content",
         b: "src:content",
