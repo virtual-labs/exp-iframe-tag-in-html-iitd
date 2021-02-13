@@ -1,0 +1,71 @@
+<html>
+
+<head>
+	<title>HBQuick Editor</title>
+	<script src="ace/ace.js" type="text/javascript" charset="utf-8"></script>
+	<script src="ace/ext-language_tools.js" type="text/javascript" charset="utf-8"></script>
+	<script src="ace/ext-beautify.js" type="text/javascript" charset="utf-8"></script>
+	<link href="style.css" rel="stylesheet">
+</head>
+
+<body style="background: #f7f7f7;">
+	<div>
+		<div class="nav">HB Quick Editor</div>
+		<div style="margin-top:28px;">
+			<div id="tabname" style="background: #c5c5c5;padding: 5px;margin: 0px;text-align: center;"></div>
+			<div class="flex-container">
+				<div class="w50per">
+					<select style="margin: 5px;" title="select theme" id="htmlTheme" onchange="setTheme('editor','htmlTheme')">
+						<option value="xcode">Xcode</option>
+						<option value="ambiance">Ambiance</option>
+						<option value="chaos">Chaos</option>
+						<option value="chrome">Chrome</option>
+						<option value="clouds">Clouds</option>
+						<option value="clouds_midnight">Clouds Midnight</option>
+						<option value="cobalt">Cobalt</option>
+						<option value="crimson_editor">Crimson Editor</option>
+						<option value="dawn">Dawn</option>
+						<option value="dracula">Dracula</option>
+						<option value="dreamweaver">Dreamweaver</option>
+						<option value="eclipse">Eclipse</option>
+						<option value="github">Github</option>
+						<option value="gob">Gob</option>
+						<option value="gruvbox">Gruvbox</option>
+						<option value="idle_fingers">Idle_fingers</option>
+						<option value="iplastic">Iplastic</option>
+						<option value="katzenmilch">Katzenmilch</option>
+						<option value="kr_theme">KR Theme</option>
+						<option value="kuroir">Kuroir</option>
+						<option value="merbivore">Merbivore</option>
+						<option value="merbivore_soft">Merbivore Soft</option>
+						<option value="mono_industrial">Mono Industrial</option>
+						<option value="monokai">Monokai</option>
+						<option value="pastel_on_dark">Pastel On Dark</option>
+						<option value="solarized_dark">Solarized Dark</option>
+						<option value="solarized_light">Solarized Light</option>
+						<option value="sqlserver">Sql Server</option>
+						<option value="terminal">Terminal</option>
+						<option value="textmate">Textmate</option>
+						<option value="tomorrow">Tomorrow</option>
+						<option value="tomorrow_night">Tomorrow Night</option>
+						<option value="tomorrow_night_blue">Tomorrow Night Blue</option>
+						<option value="tomorrow_night_bright">Tomorrow Night Bright</option>
+						<option value="tomorrow_night_eighties">Tomorrow Night Eighties</option>
+						<option value="twilight">Twilight</option>
+						<option value="vibrant_ink">Vibrant_ink</option>
+					</select>
+					<div class="editor-div">
+						<div id="editor"></div>
+					</div>
+				</div>
+				<div class="w50per">
+					<span style="width: 100%;text-align: center;display: block;margin:5px;">preview</span>
+					<iframe style="border: 1px solid #b7b5b5;background: #ffffff;" id="preview"></iframe>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script src="editor.js" type="text/javascript" charset="utf-8"></script>
+</body>
+
+</html>
