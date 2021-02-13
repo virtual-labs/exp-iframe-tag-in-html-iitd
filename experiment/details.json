@@ -1,0 +1,18 @@
+{
+
+	"Experiment": "How ‹table› Tag works in HTML",               // Write your experiment name inside the quotes
+	
+	"Lab": "Basics of HTML",                       			// Write your lab name inside the quotes
+	
+	"Discipline": "Computer Science and Engineering",    		// Write discipline name to which experimet belongs inside the quotes
+	
+	"Institute": "Indian Institute of Technology Delhi", 		// Write your institute name inside the quotes
+	
+	"InstituteAcronym": "IITD"           				// Write acronym of the institute inside the quotes
+	
+	"Author": "Prof. Ranjan Bose"					// Write name of the developer inside the quotes
+	
+	"Technology": "HTML, Javascript, JQuery"			// Write technologies used inside the quotes
+
+}
+
