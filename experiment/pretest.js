@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "iframe in HTML stands for Inline Frame State True Or False.",
+      question: "Q1. iframe in HTML stands for Inline Frame State True Or False.",
       answers: {
         a: "True",
         b: "False"
@@ -89,7 +89,7 @@
     },
 
     {
-      question: "src attribute is used to specify the URL of the document that occupies the iframe.",
+      question: "Q2. src attribute is used to specify the URL of the document that occupies the iframe.",
       answers: {
         a: "True",
         b: "False"
@@ -98,7 +98,7 @@
     },
 
     {
-      question: "How we can set width and height in iframe tag.",
+      question: "Q3. How we can set width and height in iframe tag.",
       answers: {
         a: "width=value & height=value",
         b: "width:value & height:value",
@@ -109,7 +109,7 @@
     },
 	
 	{
-      question: "iframe is an empty tag. State True Or False.",
+      question: "Q4. iframe is an empty tag. State True Or False.",
       answers: {
         a: "True",
         b: "False"
@@ -118,7 +118,7 @@
     },
 	
 	{
-      question: "How we can add scrolling in iframe tag.",
+      question: "Q5. How we can add scrolling in iframe tag.",
       answers: {
         a: "scroll=yes",
         b: "scrolling=yes",
