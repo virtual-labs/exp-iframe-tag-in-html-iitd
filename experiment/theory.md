@@ -1,9 +1,9 @@
 
-<b>1.1 Introduction</b>
+### 1.1 Introduction
 The iframe in HTML stands for Inline Frame. The ” iframe ” tag defines a rectangular region within the document in which the browser can display a separate document, including scrollbars and borders. An inline frame is used to embed another document within the current HTML document.
 The "src" attribute is used to specify the URL of the document that occupies the iframe.
 
-<b>1.2 Syntax</b>
+### 1.2 Syntax
 
 
 ‹iframe attribute="values"›Content‹/iframe›
