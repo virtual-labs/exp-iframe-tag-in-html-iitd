@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "An inline frame is used to embed another document within the current HTML document. State True Or False.",
+      question: "Q1. An inline frame is used to embed another document within the current HTML document. State True Or False.",
       answers: {
         a: "True",
         b: "False"        
@@ -89,7 +89,7 @@
     },
 
     {
-      question: "iframe tag is used to the group of various tags.",
+      question: "Q2. iframe tag is used to the group of various tags.",
       answers: {
         a: "True",
         b: "False"
@@ -98,7 +98,7 @@
     },
 
     {
-      question: "Select the correct attribute of iframe tag for border to inline frame.",
+      question: "Q3. Select the correct attribute of iframe tag for border to inline frame.",
       answers: {
         a: "border",
         b: "frameborder",
@@ -109,7 +109,7 @@
     },
 	
 	{
-      question: "Select the correct attribute for specifying the address of the document to embed in the iframe.",
+      question: "Q4. Select the correct attribute for specifying the address of the document to embed in the iframe.",
       answers: {
         a: "address",
         b: "url",
@@ -120,7 +120,7 @@
     },
 	
 	{
-      question: "How we can add srcdoc in iframe tag.",
+      question: "Q5. How we can add srcdoc in iframe tag.",
       answers: {
         a: "srcdoc=content",
         b: "src:content",

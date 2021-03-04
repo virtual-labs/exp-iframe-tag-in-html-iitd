@@ -2,5 +2,5 @@
 
 The Learner will be able to:
 
-- demonstrate working of ‹iframe› tag in HTML.
-- using ‹iframe› tag in HTML pages through proper syntax.
+- Demonstrate working of ‹iframe› tag in HTML.
+- Using ‹iframe› tag in HTML pages through proper syntax.
