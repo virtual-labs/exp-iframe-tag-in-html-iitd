@@ -1,1 +1,42 @@
-[{"question":"Q1. An inline frame is used to embed another document within the current HTML document. State True Or False.","answers":{"a":"True","b":"False"},"correctAnswer":"a"},{"question":"Q2. iframe tag is used to the group of various tags.","answers":{"a":"True","b":"False"},"correctAnswer":"b"},{"question":"Q3. Select the correct attribute of iframe tag for border to inline frame.","answers":{"a":"border","b":"frameborder","c":"Both(a)&(b)","d":"None of the above"},"correctAnswer":"b"},{"question":"Q4. Select the correct attribute for specifying the address of the document to embed in the iframe.","answers":{"a":"address","b":"url","c":"src","d":"None of the above"},"correctAnswer":"a"},{"question":"Q5. How we can add srcdoc in iframe tag.","answers":{"a":"srcdoc=content","b":"src:content","c":"Both(a)&(b)","d":"None of the above"},"correctAnswer":"d"}]
+[{
+	"question": "Q1. An inline frame is used to embed another document within the current HTML document. State True Or False.",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q2. iframe tag is used to the group of various tags.",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Q3. Select the correct attribute of iframe tag for border to inline frame.",
+	"answers": {
+		"a": "border",
+		"b": "frameborder",
+		"c": "Both(a)&(b)",
+		"d": "None of the above"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Q4. Select the correct attribute for specifying the address of the document to embed in the iframe.",
+	"answers": {
+		"a": "address",
+		"b": "url",
+		"c": "src",
+		"d": "None of the above"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q5. How we can add srcdoc in iframe tag.",
+	"answers": {
+		"a": "srcdoc=content",
+		"b": "src:content",
+		"c": "Both(a)&(b)",
+		"d": "None of the above"
+	},
+	"correctAnswer": "d"
+}]
