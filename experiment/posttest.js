@@ -96,7 +96,7 @@
 	c: "name",
 	d: "None of the above"
       },
-      correctAnswer: "b"
+      correctAnswer: "c"
     },
 
     {
@@ -122,7 +122,7 @@
     },
 	
 	{
-      question: "Q5. How we can add srcdoc in iframe tag.",
+      question: "Q5. How can we add srcdoc in iframe tag.",
       answers: {
         a: "srcdoc='HTML_code'",
         b: "src:content",
