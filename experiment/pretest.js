@@ -100,7 +100,7 @@
     {
       question: "Q3. How we can set width and height in iframe tag.",
       answers: {
-        a: "width=value & height=value",
+        a: "width='value' & height='value'",
         b: "width:value & height:value",
         c: "Both(a)&(b)",
         d: "None of the above"
@@ -109,19 +109,21 @@
     },
 	
 	{
-      question: "Q4. iframe is an empty tag. State True Or False.",
+      question: "Q4. Which of the following are the attribute of &lt;iframe&gt; tag?",
       answers: {
-        a: "True",
-        b: "False"
+        a: "src",
+        b: "width",
+	c: "height",
+	d: "All of the above"
       },
-      correctAnswer: "a"
+      correctAnswer: "d"
     },
 	
 	{
       question: "Q5. How we can add scrolling in iframe tag.",
       answers: {
-        a: "scroll=yes",
-        b: "scrolling=yes",
+        a: "scroll='yes'",
+        b: "scrolling='yes'",
         c: "Both(a)&(b)",
         d: "None of the above"
       },
