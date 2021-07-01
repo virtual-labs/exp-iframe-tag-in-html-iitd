@@ -120,7 +120,7 @@
     },
 	
 	{
-      question: "Q5. How we can add scrolling in iframe tag.",
+      question: "Q5. How can we add scrolling in iframe tag.",
       answers: {
         a: "scroll='yes'",
         b: "scrolling='yes'",
