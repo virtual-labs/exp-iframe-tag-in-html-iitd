@@ -89,10 +89,12 @@
     },
 
     {
-      question: "Q2. iframe tag is used to the group of various tags.",
+      question: "Q2. Which attribute allows you to give a name to a frame?",
       answers: {
-        a: "True",
-        b: "False"
+        a: "src",
+        b: "data-name",
+	c: "name",
+	d: "None of the above"
       },
       correctAnswer: "b"
     },
@@ -116,18 +118,18 @@
         c: "src",
         d: "None of the above"      
       },
-      correctAnswer: "a"
+      correctAnswer: "c"
     },
 	
 	{
       question: "Q5. How we can add srcdoc in iframe tag.",
       answers: {
-        a: "srcdoc=content",
+        a: "srcdoc='HTML_code'",
         b: "src:content",
         c: "Both(a)&(b)",
         d: "None of the above"
       },
-      correctAnswer: "d"
+      correctAnswer: "a"
     },
   ];
 
