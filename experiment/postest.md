@@ -23,7 +23,7 @@ B  url<br>
 <b>C  src</b><br>
 D  None of the above<br>
 
-Q5. How we can add srcdoc in &lt;iframe&gt; tag?<br>
+Q5. How can we add srcdoc in &lt;iframe&gt; tag?<br>
 <b>A  srcdoc='HTML_code'</b> <br>
 B  src:content<br>
 C  Both(a)&(b)<br>
