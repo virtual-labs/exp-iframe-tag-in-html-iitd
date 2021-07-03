@@ -13,7 +13,7 @@ B  False<br>
 Q3. How can we set width and height in ‹iframe› tag?<br>
 <b>A  width="value" & height="value"<br></b>
 B width:"value" & height:"value"<br>
-Both(a)&(b)<br>
+C Both(a)&(b)<br>
 D  None of the above<br>
 
 Q4. Which of the following are the attribute of &lt;iframe&gt; tag?<br>
