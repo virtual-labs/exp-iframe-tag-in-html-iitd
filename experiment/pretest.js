@@ -98,7 +98,7 @@
     },
 
     {
-      question: "Q3. How we can set width and height in iframe tag.",
+      question: "Q3. How can we set width and height in iframe tag?",
       answers: {
         a: "width='value' & height='value'",
         b: "width:value & height:value",
@@ -120,7 +120,7 @@
     },
 	
 	{
-      question: "Q5. How can we add scrolling in iframe tag.",
+      question: "Q5. How can we add scrolling in iframe tag?",
       answers: {
         a: "scroll='yes'",
         b: "scrolling='yes'",
