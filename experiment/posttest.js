@@ -122,7 +122,7 @@
     },
 	
 	{
-      question: "Q5. How can we add srcdoc in iframe tag.",
+      question: "Q5. How can we add srcdoc in iframe tag?",
       answers: {
         a: "srcdoc='HTML_code'",
         b: "src:content",
