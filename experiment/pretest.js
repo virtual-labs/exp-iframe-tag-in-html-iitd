@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "Q1. iframe in HTML stands for Inline Frame State True Or False.",
+      question: "Q1. iframe in HTML stands for Inline Frame. State True Or False.",
       answers: {
         a: "True",
         b: "False"
