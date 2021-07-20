@@ -1,7 +1,7 @@
 ## Pre-test
 #### Please attempt the following questions
 
-Q1. iframe in HTML stands for Inline Frame State True Or False.<br>
+Q1. iframe in HTML stands for Inline Frame. State True Or False.<br>
 <b>A  True<br></b>
 B  False<br>
 
