@@ -1,0 +1,42 @@
+[{
+	"question": "Q1. iframe in HTML stands for Inline Frame. State True Or False.",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q2. src attribute is used to specify the URL of the document that occupies the iframe.",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q3. How can we set width and height in iframe tag?",
+	"answers": {
+		"a": "width='value' & height='value'",
+		"b": "width:value & height:value",
+		"c": "Both(a)&(b)",
+		"d": "None of the above"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q4. Which of the following are the attribute of &lt;iframe&gt; tag?",
+	"answers": {
+		"a": "src",
+		"b": "width",
+		"c": "height",
+		"d": "All of the above"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Q5. How can we add scrolling in iframe tag?",
+	"answers": {
+		"a": "scroll=yes",
+		"b": "scrolling='yes'",
+		"c": "Both(a)&(b)",
+		"d": "None of the above"
+	},
+	"correctAnswer": "b"
+}]
